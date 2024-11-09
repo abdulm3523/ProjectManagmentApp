@@ -1,0 +1,73 @@
+export const taskData = [
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "to-do",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "onProgress",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "done",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "revise",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "to-do",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "onProgress",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "done",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "revise",
+  },
+
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "onProgress",
+  },
+  {
+    id: crypto.randomUUID,
+    title: "Content Writer Content Writer Content Writer",
+    description: "Prepare proctor for client meeting",
+    date: "February 20, 2024",
+    taskStatus: "revise",
+  },
+];
