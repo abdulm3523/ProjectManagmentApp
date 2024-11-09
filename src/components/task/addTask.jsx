@@ -31,7 +31,7 @@ export default function AddTaskModal({ toggleShow, taskToUpdate, onEditMode,setT
         newTask.description !== "" &&
         newTask.category !== ""
       ) {
-        setTasks([...tasks, newTask]);
+        setTasks([newTask,...tasks]);
         toast.success("Task added Succesfully", {
           position: "top-right",
         });
